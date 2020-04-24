@@ -1,0 +1,14 @@
+{
+  "name": "simple_calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple_calculator.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
